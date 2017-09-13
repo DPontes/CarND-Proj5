@@ -41,7 +41,7 @@ The goals / steps of this project are the following:
 
 You're reading it!
 
-All of the code for the project is contained in the Jupyter notebook `vehicle_detection_project.ipynb` 
+All of the code for the project is contained in the Jupyter notebook `VehicleDetection.ipynb` 
 
 ---
 
